@@ -2,8 +2,6 @@
 
 To view this project please follow link below:
 
-<https://krom121.github.io/Recipe-app/>
-
 This project is not about design, more about usage of external API.
 
 This recipe app enables users to search for recipes of there favourite foods.
